@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ForkSmp.aternos.me",
-    "port": 52841,
-    "version": "1.21.1"
+    "ip": "THENDSMP.aternos.me",
+    "port": 17686,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
